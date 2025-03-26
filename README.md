@@ -1,5 +1,5 @@
 # Obsah
-- [o proejketu]
+- [o projektu]
 -[Obrázek](#obrázek)
 -[popis projektu]
 ## Python
